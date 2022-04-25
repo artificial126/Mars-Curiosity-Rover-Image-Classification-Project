@@ -41,3 +41,29 @@ The Chemistry and Mineralogy instrument, or CheMin for short, performs chemical 
 ## Modeling 
 
 The main metric that I would be using to assess my models performance is `f-1 score`. F-1 score explain how good the quality of predictions are and how completely we've predicted labels from dataset. We wouldn't look at accuracy score because it would be misleading for our specific project. Because accuracy generally good for balanced classes and if every classes importances the same. We are goin to look at F-1 Score because it is harmonic mean of precision and recall scores what exactly need for this project. Which is for this project every class important for us.
+
+### First Model
+
+![first](./pictures/first_model_cm.png)
+
+    First model f-1 score is %54.29 .
+    
+
+### Second Model 
+
+![second](./pictures/second_model_cm.png)
+
+    Second model f-1 score is %53.92 .
+    
+### Third Model
+
+![third](./pictures/third_model_shape.png)
+
+![third](./pictures/third_model_cm.png)
+
+![third](./pictures/third_model_acc_loss.png)
+
+![third](./pictures/third_model_cr.png)
+
+
+    Last model f-1 score is %76.47 .
