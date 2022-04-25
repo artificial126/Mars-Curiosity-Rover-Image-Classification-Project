@@ -15,3 +15,13 @@ Curiosity set out to answer the question: Did Mars ever have the right environme
 The dataset provided on https://www.kaggle.com/datasets/brsdincer/mars-surface-and-curiosity-image-set-nasa .
 
 Dataset set consists of 6691 images about Mars and rover's itself. Images collected between August 2012 to July 2015. Images are 24 different categories includes horizon , surface and rover's instruments(like cameras, sensors, chemistry tools etc.). We can see some them at below.
+
+## Horizon
+
+![Horizon](./pictures/horizon.png)
+
+
+## Surface
+
+![Surface](./pictures/surface.png)
+
