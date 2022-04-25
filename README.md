@@ -36,3 +36,8 @@ The Mast Camera, or Mastcam for short, takes color images and color video footag
 The Chemistry and Mineralogy instrument, or CheMin for short, performs chemical analysis of powdered rock samples to identify the types and amounts of different minerals that are present.
 
 ![Chem](./pictures/chem.png)
+
+
+## Modeling 
+
+The main metric that I would be using to assess my models performance is `f-1 score`. F-1 score explain how good the quality of predictions are and how completely we've predicted labels from dataset. We wouldn't look at accuracy score because it would be misleading for our specific project. Because accuracy generally good for balanced classes and if every classes importances the same. We are goin to look at F-1 Score because it is harmonic mean of precision and recall scores what exactly need for this project. Which is for this project every class important for us.
