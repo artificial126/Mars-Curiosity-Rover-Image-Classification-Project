@@ -25,3 +25,14 @@ Dataset set consists of 6691 images about Mars and rover's itself. Images collec
 
 ![Surface](./pictures/surface.png)
 
+## MASTCAM
+
+The Mast Camera, or Mastcam for short, takes color images and color video footage of the Martian terrain. The images can be stitched together to create panoramas of the landscape around the rover.
+
+![Mast](./pictures/mastcam.png)
+
+## CHEMIN
+
+The Chemistry and Mineralogy instrument, or CheMin for short, performs chemical analysis of powdered rock samples to identify the types and amounts of different minerals that are present.
+
+![Chem](./pictures/chem.png)
