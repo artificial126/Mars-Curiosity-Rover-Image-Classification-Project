@@ -67,3 +67,12 @@ The main metric that I would be using to assess my models performance is `f-1 sc
 
 
     Last model f-1 score is %76.47 .
+
+
+## Future Step
+
+        We can work on our model overall shapes to get better result.
+
+        We can gather more images about mars to get better data.(which is a little problem in this dataset)
+
+        We can try more complex models to get better result.
