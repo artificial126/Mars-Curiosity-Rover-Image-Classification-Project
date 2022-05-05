@@ -44,29 +44,25 @@ The main metric that I would be using to assess my models performance is `f-1 sc
 
 ### First Model
 
-![first](./pictures/first_model_cm.png)
+![first](./pictures/first_cm.png)
 
-    First model f-1 score is %54.29 .
+![first](./pictures/first_cr.png)
+
+![first](./pictures/first_graph.png)
+
+    First model f-1 score is %55.85 .
     
 
-### Second Model 
+### Last Model
 
-![second](./pictures/second_model_cm.png)
+![third](./pictures/second_cm.png)
 
-    Second model f-1 score is %53.92 .
-    
-### Third Model
+![third](./pictures/second_cr.png)
 
-![third](./pictures/third_model_shape.png)
-
-![third](./pictures/third_model_cm.png)
-
-![third](./pictures/third_model_acc_loss.png)
-
-![third](./pictures/third_model_cr.png)
+![third](./pictures/second_graph.png)
 
 
-    Last model f-1 score is %76.47 .
+    Last model f-1 score is %81.30 .
 
 
 ## Future Step
